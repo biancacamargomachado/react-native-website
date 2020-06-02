@@ -48,4 +48,4 @@ The value to be passed to picker's `onValueChange` callback when this item is se
 
 | Type | Required | Platform |
 | ---- | -------- | -------- |
-| any  | No       | Android  |
+| string, integer  | No       | Android  |
